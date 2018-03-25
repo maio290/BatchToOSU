@@ -10,11 +10,11 @@ Raindrop: https://github.com/zardoru/raindrop
 
 ## Required adjustments
 ```c#
-string raindrop = path to your convertOM.bat from Raindrop
+string raindrop = "path to your convertOM.bat from Raindrop";
 
-string sevenZip = path to your 7z.exe
+string sevenZip = "path to your 7z.exe";
 
-string targetPath = output path 
+string targetPath = "output path";
 ```
 
 ## Usage
