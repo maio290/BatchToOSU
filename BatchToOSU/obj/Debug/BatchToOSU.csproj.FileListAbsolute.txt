@@ -1,0 +1,5 @@
+E:\Bibliotheken\Dokumente\SharpDevelop Projects\BatchToOSU\BatchToOSU\bin\Debug\BatchToOSU.exe
+E:\Bibliotheken\Dokumente\SharpDevelop Projects\BatchToOSU\BatchToOSU\bin\Debug\BatchToOSU.pdb
+E:\Bibliotheken\Dokumente\SharpDevelop Projects\BatchToOSU\BatchToOSU\obj\Debug\BatchToOSU.csprojResolveAssemblyReference.cache
+E:\Bibliotheken\Dokumente\SharpDevelop Projects\BatchToOSU\BatchToOSU\obj\Debug\BatchToOSU.exe
+E:\Bibliotheken\Dokumente\SharpDevelop Projects\BatchToOSU\BatchToOSU\obj\Debug\BatchToOSU.pdb

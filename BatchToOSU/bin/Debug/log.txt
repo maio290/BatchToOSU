@@ -1,0 +1,3 @@
+Setting format to om (3)
+SongLoader: Load E:\Spiele\StepMania 5\Songs\Tales of Genji\Speedy Cat\SpeedyCat.sm from disk... ok
+Attempt to convert 1 difficulties...
