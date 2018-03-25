@@ -9,12 +9,13 @@ Raindrop: https://github.com/zardoru/raindrop
 
 
 ## Required adjustments
-  string raindrop = path to your convertOM.bat from Raindrop
+```c#
+string raindrop = path to your convertOM.bat from Raindrop
 
-  string sevenZip = path to your 7z.exe
+string sevenZip = path to your 7z.exe
 
-  string targetPath = output path 
-
+string targetPath = output path 
+```
 
 ## Usage
 Simply start the program and enter a folder of any StepMania songs e.g. "E:\Spiele\StepMania 5\Songs\CMG's The Fourth Semester",
